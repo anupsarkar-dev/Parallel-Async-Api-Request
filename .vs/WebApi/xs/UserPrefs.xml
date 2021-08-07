@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="Multiple Project">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleToTestAPi/Program.cs">
+    <Files>
+      <File FileName="WebApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="WebApi/Program.cs" />
+      <File FileName="WebApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="ConsoleToTestAPi/Program.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApi" expanded="True">
+            <Node name="ConsoleToTestAPi" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="WebApiProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleToTestAPi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebApiProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Project" Name="Multiple Project">
+      <Items>
+        <StartupItem ItemId="{74A676E7-137A-4A4E-86F3-0C08D0F75D59}" ItemName="ConsoleToTestAPi" ConfigurationId="Default" />
+        <StartupItem ItemId="{713EAF95-DBD6-406C-BC84-BC428030B6E9}" ItemName="WebApiProject" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

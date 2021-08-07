@@ -1,0 +1,15 @@
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/bin/Debug/net5.0/ConsoleToTestAPi.deps.json
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/bin/Debug/net5.0/ConsoleToTestAPi.runtimeconfig.json
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/bin/Debug/net5.0/ConsoleToTestAPi.runtimeconfig.dev.json
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/bin/Debug/net5.0/ConsoleToTestAPi.dll
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/bin/Debug/net5.0/ref/ConsoleToTestAPi.dll
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/bin/Debug/net5.0/ConsoleToTestAPi.pdb
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/obj/Debug/net5.0/ConsoleToTestAPi.csproj.AssemblyReference.cache
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/obj/Debug/net5.0/ConsoleToTestAPi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/obj/Debug/net5.0/ConsoleToTestAPi.AssemblyInfoInputs.cache
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/obj/Debug/net5.0/ConsoleToTestAPi.AssemblyInfo.cs
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/obj/Debug/net5.0/ConsoleToTestAPi.csproj.CoreCompileInputs.cache
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/obj/Debug/net5.0/ConsoleToTestAPi.dll
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/obj/Debug/net5.0/ref/ConsoleToTestAPi.dll
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/obj/Debug/net5.0/ConsoleToTestAPi.pdb
+/Users/Anup/Documents/DotNet/WebApi/ConsoleToTestAPi/obj/Debug/net5.0/ConsoleToTestAPi.genruntimeconfig.cache
