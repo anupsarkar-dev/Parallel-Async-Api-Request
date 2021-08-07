@@ -48,6 +48,9 @@ namespace WebApi.Controllers
         [HttpGet("Get2")]
         public async Task<IActionResult> Get2()
         {
+        //    throw new Exception("Boom!");
+
+
             await Task.Delay(TimeSpan.FromSeconds(2));
 
             return Ok(new { Data = 20000 });
