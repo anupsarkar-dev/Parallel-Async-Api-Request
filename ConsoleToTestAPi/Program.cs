@@ -54,10 +54,10 @@ namespace ConsoleToTestAPi
 
                 await Task.WhenAll(tasks).WithAggregatedExceptions();
 
-
-                var apiCall1 = await apiCall1Task;
-                var apiCall2 = await apiCall2Task;
-                var apiCall3 = await apiCall3Task;
+                // task is already processed , just get the result
+                var apiCall1 = apiCall1Task.Result;
+                var apiCall2 = apiCall2Task.Result;
+                var apiCall3 = apiCall3Task.Result;
 
                 Console.WriteLine($"Total Time Taken To Process Request : {stopwatch.ElapsedMilliseconds}ms");
 
@@ -146,9 +146,10 @@ namespace ConsoleToTestAPi
             //}
 
 
-            var apiCall1 = await apiCall1Task;
-            var apiCall2 = await apiCall2Task;
-            var apiCall3 = await apiCall3Task;
+            // task is already processed , just get the result
+            var apiCall1 = apiCall1Task.Result;
+            var apiCall2 = apiCall2Task.Result;
+            var apiCall3 = apiCall3Task.Result;
 
             Console.WriteLine($"Total Time Taken To Process Request : {stopwatch.ElapsedMilliseconds}ms");
             Console.WriteLine($"Date Returned : {apiCall1} , {apiCall2} , {apiCall3} ");
